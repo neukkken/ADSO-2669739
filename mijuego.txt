@@ -26,8 +26,18 @@ ed
 ed
 
 
+<<<<<<< HEAD
+MARYUR
+CHARIGD
+LOPEZ
+=======
 
 b
 b
 b
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3619ba0e21b971033e6ab4c5bce3fc08554df2fe
+>>>>>>> f60de380f43ac0c78727da9354f81f0993d2bc0d
+>>>>>>> 62ca7596d5953a8a4f2b092a108a2772f40aec6f
