@@ -3,8 +3,15 @@ a
 
 s
 
-asdsad
+<<<<<<< HEAD
+STEVEM.NESTJS
 asdsads => yo cuando
 asdsadds
+=======
+SANTIAgo pa
+astro es el MEJOR FRAMEWORK
+CONSOLE.LOG
+
+>>>>>>> 58ffcc63a187fe571046d88fb80281cb9e01d067
 
 d
