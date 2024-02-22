@@ -13,7 +13,12 @@ SANTIAgo pa
 astro es el MEJOR FRAMEWORK
 CONSOLE.LOG
 
+<<<<<<< HEAD
+soy traviesa
+
+=======
 yo que se
+>>>>>>> 8c50e0997bec1e94732eac2326bd652c6cdc31ce
 
 
 
@@ -66,7 +71,9 @@ darbin
 
 cuene
 
+
 d
+jhjhj
 yesica 
 nexts js
 goland
