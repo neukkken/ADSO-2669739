@@ -3,11 +3,25 @@ a
 
 s
 
+STEVEM.NESTJS
+asdsads => yo cuando
+asdsadds
 SANTIAgo pa
 astro es el MEJOR FRAMEWORK
 CONSOLE.LOG
 
 
+<<<<<<< HEAD
 darbin
 
 cuene
+=======
+d
+yesica 
+nexts js
+goland
+
+ed
+ed
+ed
+>>>>>>> fd69806676986daacd27c5b8618dc6baedb186e4
