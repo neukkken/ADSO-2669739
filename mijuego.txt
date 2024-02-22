@@ -9,13 +9,10 @@ CONSOLE.LOG
 
 
 d
-<<<<<<< HEAD
 yesica 
 nexts js
 goland
-=======
 
 ed
 ed
 ed
->>>>>>> 5bbeb264f9275a17120c93327b3ed6abbbaa0f81
