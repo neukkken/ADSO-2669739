@@ -28,11 +28,11 @@ ed
 >>>>>>> fd69806676986daacd27c5b8618dc6baedb186e4
 =======
 
-<<<<<<< HEAD
+
 MARYUR
 CHARIGD
 LOPEZ
-=======
+
 
 b
 b
