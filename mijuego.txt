@@ -20,12 +20,41 @@ yesica
 nexts js
 goland
 
+<<<<<<< HEAD
+ed
+ed
+ed
+<<<<<<< HEAD
+
+solo millos 
+
+nada mas 
+
+aguante   
+
+fernando
+=======
+<<<<<<< HEAD
+>>>>>>> fd69806676986daacd27c5b8618dc6baedb186e4
+=======
+
+
+b
+b
+b
+>>>>>>> 3619ba0e21b971033e6ab4c5bce3fc08554df2fe
+>>>>>>> f60de380f43ac0c78727da9354f81f0993d2bc0d
+=======
 sthefa
 ibarra
 rodriguez
 
+<<<<<<< HEAD
+>>>>>>> 3dd66abef9d1887c769edb34295a87715b94d78c
+=======
 MAARYUR
 LOPEZ
+<<<<<<< HEAD
 
 
 b
@@ -39,3 +68,7 @@ goland
 goland
 goland
 goland
+=======
+MARYU
+>>>>>>> f9935956ba85da4fa4e550bb140ada9ca63a28db
+>>>>>>> a012b9cd54c2f1a0c2c14f87ce8bd919cee58661
