@@ -1,3 +1,6 @@
+MAARYUR
+LOPEZ
+MARYU
 a
 
 
@@ -53,12 +56,9 @@ sthefa
 ibarra
 rodriguez
 
-<<<<<<< HEAD
->>>>>>> 3dd66abef9d1887c769edb34295a87715b94d78c
-=======
+
 MAARYUR
 LOPEZ
-<<<<<<< HEAD
 
 
 b
@@ -76,3 +76,4 @@ goland
 MARYU
 >>>>>>> f9935956ba85da4fa4e550bb140ada9ca63a28db
 >>>>>>> a012b9cd54c2f1a0c2c14f87ce8bd919cee58661
+>>>>>>> 73a26c08f8bdfbab00135ab9288f469c4d002b0f
